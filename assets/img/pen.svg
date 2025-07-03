@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="25" height="25" viewBox="0 0 6.615 6.615" id="pen">
+  <defs>
+    <linearGradient id="b">
+      <stop offset="0" stop-color="#fdbb32"></stop>
+      <stop offset="1" stop-color="#ec8d2e"></stop>
+    </linearGradient>
+    <linearGradient id="a">
+      <stop offset="0" stop-color="#1fa9de"></stop>
+      <stop offset="1" stop-color="#02578c"></stop>
+    </linearGradient>
+    <linearGradient xlink:href="#a" id="c" x1="26.988" x2="32.545" y1="29.765" y2="29.765" gradientUnits="userSpaceOnUse"></linearGradient>
+    <linearGradient xlink:href="#b" id="d" x1="26.99" x2="32.556" y1="32.411" y2="32.411" gradientUnits="userSpaceOnUse"></linearGradient>
+  </defs>
+  <g color="#000" font-family="sans-serif" font-weight="400">
+    <path fill="url(#c)" d="M31.615 26.988a.132.132 0 0 0-.011 0 .132.132 0 0 0-.08.037L27.29 31.26a.132.132 0 0 0-.035.06l-.264 1.059a.132.132 0 0 0 .16.16l1.059-.263a.132.132 0 0 0 .06-.036l4.235-4.232a.132.132 0 0 0 0-.187l-.795-.796a.132.132 0 0 0-.096-.037z" overflow="visible" paint-order="markers fill stroke" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" transform="translate(-26.465 -26.458)"></path>
+    <path fill="url(#d)" d="M27.107 32.28a.132.132 0 0 0 .012.263h5.293a.132.132 0 1 0 0-.264H27.12a.132.132 0 0 0-.012 0z" overflow="visible" style="line-height:normal;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000;text-transform:none;text-orientation:mixed;shape-padding:0;isolation:auto;mix-blend-mode:normal" transform="translate(-26.465 -26.458)"></path>
+  </g>
+</svg>
