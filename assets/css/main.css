@@ -3599,7 +3599,7 @@ section,
  .footer-gif {
       display: block;
       margin: 0 auto 15px auto;
-      max-width: 125px;
+      max-width: 100%;
       height: auto;
     }
 
@@ -3607,13 +3607,15 @@ section,
       color: #444;
       font-size: 14px;
     }
-
+   
+    
     /* Responsive tweak */
-    @media (max-width: 5000px) {
+    @media (max-width: 100%) {
       .footer-gif {
-        max-width: 450px;
+        max-width: 100%;
       }
       .footer-text {
         font-size: 13px;
       }
     }
+
