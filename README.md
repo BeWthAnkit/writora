@@ -1,4 +1,4 @@
-# Blogify - Modern Blog Website
+<!-- # Writora - Modern Blog Website
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/xeventech/blogify-modern-blog-template)
 [![Stars](https://img.shields.io/github/stars/XevenTech/blogify-modern-blog-template?style=social)](https://github.com/XevenTech/blogify-modern-blog-template/stargazers)
@@ -10,9 +10,9 @@ Blogify is a complete Responsive Modern Blog Template built using HTML CSS JS PH
 ## Demo
 
 ### Home Page:
-![Home Page Demo](https://github.com/XevenTech/projects_snapshots/blob/main/blogify-modern-blog-template/home-page.png?raw=true "Home Page Demo")
+![Home Page Demo](https://github.com/BeWthAnkit/projects_snapshots/blob/main/blogify-modern-blog-template/home-page.png?raw=true "Home Page Demo")
 ### About Page:
-![About Page Demo](https://github.com/XevenTech/projects_snapshots/blob/main/blogify-modern-blog-template/about-page.png?raw=true "About Page Demo")
+![About Page Demo]("https://github.com/user-attachments/assets/cd684932-1e31-4cc0-ae0c-f078e280a042 "About Page Demo")
 ### Category Page:
 ![Category Page Demo](https://github.com/XevenTech/projects_snapshots/blob/main/blogify-modern-blog-template/category-page.png?raw=true "Category Page Demo")
 ### Blog Page:
@@ -33,13 +33,13 @@ To install, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/xeventech/blogify-modern-blog-template.git
+sudo git clone https://github.com/BeWthAnkit/writora.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/xeventech/blogify-modern-blog-template.git
+git clone https://github.com/BeWthAnkit/writora.git
 ```
 
 ## Watch Video Tutorial
@@ -49,4 +49,4 @@ git clone https://github.com/xeventech/blogify-modern-blog-template.git
 
 ## Thank you for reading, here's a cat:
 
-![Cat](https://github.com/XevenTech/xeventech/blob/main/cat.gif?raw=true "Thank You")
+![Cat](https://github.com/XevenTech/xeventech/blob/main/cat.gif?raw=true "Thank You") -->
